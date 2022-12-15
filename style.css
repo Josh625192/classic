@@ -3,7 +3,7 @@ body {
     margin: 0 auto;
 }
 p {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: small;
 }
 body {
@@ -12,6 +12,16 @@ body {
     max-width: 700px;
     margin: 0 auto;
     padding: 12px;
-    color: #291;
-    background-color: #000000;
+    color: rgb(0, 68, 255);
+    background-color: blanchedalmond;
+  }
+  h1 {
+    text-align: center;
+    text-decoration: dotted;
+  }
+  h2 {
+    text-align: center;
+  }
+  img {
+    align-self: center;
   }
